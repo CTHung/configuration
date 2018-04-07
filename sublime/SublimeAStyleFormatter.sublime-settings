@@ -1,0 +1,14 @@
+{
+	// Please visit http://astyle.sourceforge.net/astyle.html for more information
+	"options_default": {
+	// Default bracket style
+	// Can be one of "allman", "bsd", "break", "java", "attach", "kr", "k&r",
+	// "k/r" "stroustrup", "whitesmith", "banner", "gnu", "linux", "horstmann",
+	// "1tbs", "otbs ", "google", "pico", "lisp", "python", "vtk", or null
+	// for default.
+		"style": "allman",
+		"translate_tabs_to_spaces": false,
+		"detect_indentation": true,
+		"tab_size": 4
+	}
+}
